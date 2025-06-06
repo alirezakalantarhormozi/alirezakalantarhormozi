@@ -2,7 +2,7 @@
 
 🎓 MSc in Artificial Intelligence (Distinction) — University of Essex  
 🧠 AI/ML Engineer | NLP | Computer Vision | LLMs | Deep Learning  
-🌍 Based in the UK | Open to AI/ML roles | Former PhD admit (GMU CS)  
+🌍 Based in the UK | Open to AI/ML roles
 
 ---
 
